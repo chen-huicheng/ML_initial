@@ -35,3 +35,18 @@ db = dz          b = b - db
 </p>
 
 ## 2线性回归
+
+###原理
+
+我们想要通过一条直线或者曲线拟合一组数据<br>
+
+数据如图
+<p align="center">
+  <img src="Linear fitting/data.jpg">
+</p>
+
+###效果图
+
+<p align="center">
+  <img src="Linear fitting/line.jpg">
+</p>
